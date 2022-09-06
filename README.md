@@ -21,11 +21,16 @@ The project is an extension work to our CVPR work
 
 If our project is helpful for your research, please consider citing : 
 ``` 
-  @article{wang2022tokencut,
-	title={TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer and Normalized Cut},
-	author={Wang, Yangtao and Shen, Xi and, Yuan, Yuan, and Yuming, Du, and Maomao, Li, and Hu, Shell Xu and Crowley, James L. and Vaufreydaz, Dominique},
-	journal={arXiv},
-	year={2022}
+   @unpublished{wang2022tokencut2, 
+	  title = {{TokenCut: Segmenting Objects in Images and Videos with Self-supervised Transformer 
+		    and Normalized Cut}}, 
+	  author = {Wang, Yangtao and Shen, Xi and Yuan, Yuan and Du, Yuming and Li, Maomao and 
+		    Hu, Shell Xu and Crowley, James L and Vaufreydaz, Dominique}, 
+	  url = {https://hal.archives-ouvertes.fr/hal-03765422}, 
+	  note = {working paper or preprint}, 
+	  year = {2022}, 
+	  hal_id = {hal-03765422}, 
+	  hal_version = {v1}
 	}
 ```
 
@@ -42,7 +47,7 @@ If our project is helpful for your research, please consider citing :
 
 ## 1. Updates
 
-***01/09/2022***
+***06/09/2022***
 Initial commit: Code of TokenCut unsupervised video segmentation section is released.
 
 ## 2. Installation
