@@ -47,7 +47,7 @@ If our project is helpful for your research, please consider citing :
 
 ## 1. Updates
 
-***06/09/2022***
+***09/06/2022***
 Initial commit: Code of TokenCut unsupervised video segmentation section is released.
 
 ## 2. Installation
