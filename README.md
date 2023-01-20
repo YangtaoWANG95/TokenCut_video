@@ -75,11 +75,11 @@ We provide quick download commands in [PREPARE_DATA.md](./PREPARE_DATA.md) for D
 
 We provide TokenCut visualization for single video, if the segmentation result is not very accurate, please chekck whether the optical flow results is clear enough, using gap > 1 to compensate small motions.
 ```
-python quickstart.py --video_path ./figures/horsejump-high --gap 1
+python quickstart.py --video-path ./figures/horsejump-high --gap 1
 ```
 To build the graph on single frame, which is faster but less accurate:
 ```
-python quickstart.py --video_path ./figures/horsejump-high --gap 1 --single-frame
+python quickstart.py --video-path ./figures/horsejump-high --gap 1 --single-frame
 ```
 
 ## 4. Unsupervised video segmentation
